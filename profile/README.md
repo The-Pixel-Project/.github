@@ -4,6 +4,10 @@ The Pixel Project
 ---------------
 > The Pixel Project, an AOSP based custom rom lead by a passionate team aiming to provide a clean and smooth experience of stock android with Pixel Goodies. 
 
+Downloads
+---------------
+[![Download](https://img.shields.io/sourceforge/dt/pixel-project.svg)](https://sourceforge.net/projects/droidxui-releases/)
+
 Excited?
 ---------------
 Here are some quick links to get you started:
