@@ -6,7 +6,7 @@ The Pixel Project
 
 Downloads
 ---------------
-[![Download](https://img.shields.io/sourceforge/dt/pixel-project.svg)](https://sourceforge.net/projects/droidxui-releases/)
+[![Download](https://img.shields.io/sourceforge/dt/pixel-project.svg)](https://sourceforge.net/projects/pixel-project/)
 
 Excited?
 ---------------
